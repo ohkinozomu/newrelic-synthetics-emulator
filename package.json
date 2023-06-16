@@ -1,0 +1,29 @@
+{
+  "name": "newrelic-synthetics-emulator",
+  "version": "0.0.1",
+  "description": "Imitation of New Relic's request to got converter (unofficial)",
+  "main": "http.js",
+  "scripts": {
+    "test": "node test.js",
+    "eslint": "eslint --fix ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohkinozomu/newrelic-synthetics-emulator.git"
+  },
+  "author": "Ohki Nozomu",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ohkinozomu/newrelic-synthetics-emulator/issues"
+  },
+  "homepage": "https://github.com/ohkinozomu/newrelic-synthetics-emulator#readme",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.8"
+  }
+}
