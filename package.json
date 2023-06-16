@@ -1,0 +1,20 @@
+{
+  "name": "newrelic-synthetics-emulator",
+  "version": "0.0.1",
+  "description": "Imitation of New Relic's request to got converter (unofficial)",
+  "main": "http.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohkinozomu/newrelic-synthetics-emulator.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ohkinozomu/newrelic-synthetics-emulator/issues"
+  },
+  "homepage": "https://github.com/ohkinozomu/newrelic-synthetics-emulator#readme",
+  "type": "module"
+}
