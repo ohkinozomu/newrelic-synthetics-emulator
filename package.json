@@ -27,6 +27,6 @@
     "prettier": "^2.8.8"
   },
   "dependencies": {
-    "got": "^13.0.0"
+    "got": "^14.0.0"
   }
 }
